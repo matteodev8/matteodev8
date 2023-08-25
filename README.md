@@ -14,7 +14,4 @@ Welcome to GitHub profile, I am not very active tho.
 * **Phone**: iPhone XS 64GB Space Gray (iOS 17)
 * **2nd Phone**: iPhone SE 2020 64GB White (iOS 15 + Jailbroken with Dopamine)
 * **3rd Phone**: Xiaomi Redmi Note 11 NFC 128GB Blue
-
----
-
 * iPad 6th Gen WiFi + Celluar 64GB Silver (BROKEN!)
