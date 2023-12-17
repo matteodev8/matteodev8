@@ -11,7 +11,7 @@ Welcome to GitHub profile, I am not very active tho.
 * **MOB**: Aorus Z390 Pro WiFi
 
 ---
-
-* **Phone**: iPhone SE 2020 64GB White (iOS 15.0 RC)
-* **2nd Phone**: iPhone XS 64GB Space Gray (iOS 17.1.1)
-* **3rd Phone**: Xiaomi Redmi Note 11 NFC 128GB Blue
+* **Phone**: iPhone 15 Pro Max 256GB Black (Latest)
+* **2nd Phone**: iPhone SE 2020 64GB White (iOS 15.0 RC)
+* **3rd Phone**: iPhone XS 64GB Space Gray (iOS 17.1.1)
+* **4th Phone**: Xiaomi Redmi Note 11 NFC 128GB Blue
