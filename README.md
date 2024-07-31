@@ -7,7 +7,7 @@ Welcome to GitHub profile, I am not very active tho.
 ### PC
 * **MOB**: MSI MPG X670E Carbon WiFi
 * **CPU**: Ryzen 9 7950X
-* **RAM**: Kingston Fury BEAST 64GB DDR5-6000 (2x32GB)
+* **RAM**: Kingston FURY Beast 64GB DDR5-6000 (2x32GB)
 * **GPU**: Zotac Nvidia GeForce RTX 3060 AMP White Edition
 
 ### Laptop
