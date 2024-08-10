@@ -2,6 +2,10 @@
 
 Welcome to GitHub profile, I am not very active tho.
 
+## Skills
+
+If I have enough dedication I could rewrite Windows in 7 days with Rust, but that only happens for 10 minutes every few months
+
 ## Hardware 💻
 
 ### PC
