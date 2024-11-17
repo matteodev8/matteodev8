@@ -24,8 +24,8 @@ If I have enough dedication I could rewrite Windows in 7 days with Rust, but tha
 ### PC
 * **MOB**: MSI MPG X670E Carbon WiFi
 * **CPU**: Ryzen 9 7950X
-* **RAM**: Kingston FURY Beast 64GB DDR5-6000 (2x32GB)
-* **GPU**: Zotac Nvidia GeForce RTX 3060 AMP White Edition
+* **RAM**: 64GB DDR5-6000
+* **GPU**: RX 7800 XT
 
 ### Laptop
 * **LPT**: MacBook Pro 2021 16"
